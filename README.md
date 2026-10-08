@@ -13,6 +13,7 @@ Software development, web development, developer tools, game development and ind
 - Godot games and reusable game-development systems
 - UI component systems and digital developer assets
 - AI-assisted development and structured automation workflows
+- visual design and digital media production
 
 ## Core Technologies
 
@@ -24,11 +25,11 @@ Software development, web development, developer tools, game development and ind
 
 **AI & Automation:** OpenAI Codex, Claude, Claude Skills, Model Context Protocol (MCP), prompt design
 
-**Testing & QA:** Playwright, Vitest, Puppeteer, responsive testing, release regression workflows
+**Testing & QA:** Playwright, Vitest, Puppeteer, responsive testing, clean-install testing, release regression workflows
 
 **Game Development:** Godot, GDScript, Godot Web export
 
-**Design & Media:** CorelDRAW, Inkscape, Blender, FFmpeg
+**Design & Media:** Adobe Photoshop, Adobe Illustrator, CorelDRAW, Inkscape, Blender, FFmpeg
 
 **Development Tools:** Git, GitHub, LocalWP, PowerShell
 
@@ -54,13 +55,13 @@ Responsive Framer template for indie-game announcements, showcases and launches.
 
 ### Developer Tools
 
-HK Lab Studio also develops local-first developer utilities, React interface systems, release-QA tooling and structured AI-assisted workflows.
+HK Lab Studio also develops local-first developer utilities, React interface systems, release-QA tooling and structured AI-assisted development workflows.
 
 [Browse the complete portfolio](https://github.com/HKLabStudio/Portfolio)
 
 ## Current Focus
 
-Building practical commercial software, WordPress themes, Framer templates, developer tooling, AI-assisted workflows and reusable digital products with an emphasis on responsive design, validation and release quality.
+Building practical commercial software, WordPress themes, Framer templates, developer tooling, AI-assisted workflows, games and reusable digital products with an emphasis on responsive design, validation and release quality.
 
 ## Contact
 
