@@ -17,7 +17,7 @@ Software development, web development, developer tools, game development and ind
 
 ## Core Technologies
 
-**Web & CMS:** WordPress, PHP, Gutenberg / Full Site Editing, HTML5, CSS3, JavaScript, Framer
+**Web & CMS:** WordPress, WooCommerce, PHP, Gutenberg, Full Site Editing / Site Editor, WordPress Block Themes, theme.json, HTML5, CSS3, JavaScript, Framer
 
 **Frontend:** React, TypeScript, Tailwind CSS, Vite
 
@@ -25,7 +25,7 @@ Software development, web development, developer tools, game development and ind
 
 **AI & Automation:** OpenAI Codex, Claude, Claude Skills, Model Context Protocol (MCP), prompt design
 
-**Testing & QA:** Playwright, Vitest, Puppeteer, responsive testing, clean-install testing, release regression workflows
+**Testing & QA:** Playwright, Google Chrome automation, Vitest, Puppeteer, responsive browser testing, WordPress clean-install testing, WooCommerce checkout workflow testing, ZIP release validation, release regression workflows
 
 **Game Development:** Godot, GDScript, Godot Web export
 
@@ -34,6 +34,16 @@ Software development, web development, developer tools, game development and ind
 **Development Tools:** Git, GitHub, LocalWP, PowerShell
 
 ## Featured Work
+
+### AI Revolution
+
+AI Revolution is a responsive WordPress and WooCommerce block theme designed for software stores, AI products, developer tools and digital downloads.
+
+Built with native WordPress block-theme architecture, Full Site Editing, reusable patterns and WooCommerce storefront integration.
+
+Its customer distribution includes optional sample products, demo artwork and installation documentation.
+
+[Product](https://www.hklabstudio.com/store/ai-revolution-wordpress-woocommerce-theme)  [40-second demo](https://youtu.be/i-Eu6YrTFZI)  [Project profile](https://github.com/HKLabStudio/Portfolio/blob/main/projects/ai-revolution.md)
 
 ### Prestige Auto
 
