@@ -1,8 +1,12 @@
 # HK Lab Studio
 
-Software development, web development, developer tools, game development and independent digital products.
+Independent creative technology, web design and software development by Hansel Komal.
 
 [Website](https://hklabstudio.com)  [Portfolio](https://github.com/HKLabStudio/Portfolio)
+
+## About
+
+HK Lab Studio creates websites, Framer templates, interactive experiences, software tools and motion-driven digital products. The work spans design, development and practical release validation.
 
 ## What I Build
 
@@ -34,6 +38,12 @@ Software development, web development, developer tools, game development and ind
 **Development Tools:** Git, GitHub, LocalWP, PowerShell
 
 ## Featured Work
+
+### Framing Motion Template
+
+A cinematic Framer portfolio template for filmmakers, video editors, motion designers and creative studios.
+
+[View Framing Motion](https://www.hklabstudio.com/store/framing-motion-template)
 
 ### AI Revolution
 
@@ -75,5 +85,4 @@ Building practical commercial software, WordPress themes, Framer templates, deve
 
 ## Contact
 
-Website:
-https://hklabstudio.com
+[Website](https://www.hklabstudio.com) · [Contact HK Lab Studio](https://www.hklabstudio.com/contact)
