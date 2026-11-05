@@ -39,6 +39,12 @@ HK Lab Studio creates websites, Framer templates, interactive experiences, softw
 
 ## Featured Work
 
+### Godot Refactor Guard
+
+Limited beta Godot editor addon for checking `.tscn` signal connections against a baseline, previewing missing wiring and backing up a scene before an approved repair. Verified with Godot 4.7.2 stable. Version 0.1.1.
+
+[Product on FastSpring](https://hklabstudio.onfastspring.com/godot-refactor-guard)  [Product licence](https://www.hklabstudio.com/product-licence)  [Project profile](https://github.com/HKLabStudio/Portfolio/blob/main/projects/godot-refactor-guard.md)
+
 ### Framing Motion Template
 
 A cinematic Framer portfolio template for filmmakers, video editors, motion designers and creative studios.
