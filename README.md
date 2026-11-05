@@ -29,9 +29,9 @@ HK Lab Studio creates websites, Framer templates, interactive experiences, softw
 
 **AI & Automation:** OpenAI Codex, Claude, Claude Skills, Model Context Protocol (MCP), prompt design
 
-**Testing & QA:** Playwright, Google Chrome automation, Vitest, Puppeteer, responsive browser testing, WordPress clean-install testing, WooCommerce checkout workflow testing, ZIP release validation, release regression workflows
+**Testing & QA:** Playwright, Google Chrome automation, Vitest, Puppeteer, responsive browser testing, WordPress clean-install testing, WooCommerce checkout workflow testing, ZIP release validation, release regression workflows, Godot headless tests, independent-project trials
 
-**Game Development:** Godot, GDScript, Godot Web export
+**Game Development:** Godot 4, GDScript, EditorPlugin development, text-scene (.tscn) and signal workflows, Godot Web export
 
 **Design & Media:** Adobe Photoshop, Adobe Illustrator, CorelDRAW, Inkscape, Blender, FFmpeg
 
